@@ -1,0 +1,8 @@
+{
+    "name": "MeetHop API documentation",
+    "version": "1.0.0",
+    "description": "MeetHop User/Event manager",
+    "template": {
+        "forceLanguage": "en"
+    }
+}
